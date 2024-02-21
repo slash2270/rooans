@@ -1,0 +1,17 @@
+{
+  "articles": [
+    {
+      "source":{
+        "id":"",
+        "name":""
+      },
+      "author":"",
+      "title":"",
+      "description":"",
+      "url":"",
+      "urlToImage":"",
+      "publishedAt":"",
+      "content":""
+    }
+  ]
+}
